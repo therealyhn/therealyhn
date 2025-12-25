@@ -6,8 +6,6 @@
 
 <p align="left">Frontend Developer focused on building modern, responsive, and user-friendly web applications.<br><br>I specialize in React, Vite, and Tailwind CSS, with a strong focus on clean UI, performance, and scalable component-based architecture.<br>Currently working in IT while continuously building and improving real-world projects.</p>
 
-##
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jovan-ljusic/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -20,59 +18,48 @@
   </a>
 </div>
 
-##
+###
 
 <br clear="both">
 
 <h1 align="left">🚀 Tech Stack</h1>
-
-##
-
 <h2 align="left">Frontend</h2>
 
-##
-
-<br clear="both">
-
+###
 <p align="left">React, Vite<br>JavaScript (ES6+)<br>Tailwind CSS, CSS3<br>HTML5</p>
 
-##
+###
 
 <h2 align="left">Tools & Workflow</h2>
 
-##
-
-<br clear="both">
+###
 
 <p align="left">Git & GitHub<br>Figma (UI reference & implementation)<br>Vite, npm<br>REST APIs</p>
 
-##
+###
 
 <h2 align="left">Other Experience</h2>
 
-##
+###
 
 <br clear="both">
 
 <p align="left">Basic backend understanding<br>CMS (Sanity)<br>Deployment & hosting (Hostinger, GitHub Pages)<br>IT systems & infrastructure background</p>
 
-##
+###
 
-<br clear="both">
 
 <h2 align="left">🧩 What I’m Working On</h2>
 
-##
-
-<br clear="both">
+###
 
 <p align="left">Building scalable and clean front-end architectures<br>Improving performance and accessibility<br>Creating real-world projects for clients and personal portfolio<br>Expanding knowledge in modern React patterns</p>
 
-##
+###
 
 <h2 align="left">🛠 Language and tools</h2>
 
-##
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
