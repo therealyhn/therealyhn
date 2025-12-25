@@ -23,17 +23,15 @@
 
 ### 🚀 Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | React, Vite, JavaScript (ES6+), Tailwind CSS, CSS3, HTML5 |
-| **Tools** | Git, GitHub, Figma, VS Code, npm, REST APIs |
-| **Experience** | Sanity (CMS), Deployment (Hostinger, GitHub Pages), IT Infrastructure |
-
-<br/>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,ps,vscode,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,git,github,figma,vscode,ps" />
 </div>
+
+<p align="center">
+  <b>Frontend:</b> React • Vite • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3 <br/>
+  <b>Tools:</b> Git • GitHub • Figma • VS Code • npm • REST APIs <br/>
+  <b>Experience:</b> Sanity (CMS) • Deployment (Hostinger, GH Pages) • IT Infrastructure
+</p>
 
 ---
 
