@@ -44,21 +44,6 @@
 - 💼 Creating real-world projects for clients and personal portfolio.
 - 🧠 Expanding knowledge in **modern React patterns**.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jovanljusic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanljusic&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages card" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jovanljusic&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </p>
