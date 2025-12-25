@@ -30,7 +30,7 @@
 <p align="center">
   <b>Frontend:</b> React • Vite • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3 <br/>
   <b>Tools:</b> Git • GitHub • Figma • VS Code • npm • REST APIs <br/>
-  <b>Experience:</b> Sanity (CMS) • Deployment (Hostinger, GH Pages) • IT Infrastructure
+  <b>Experience:</b> Sanity (CMS) • Deployment (Hostinger, GH Actions) • Backend understanding • IT Infrastructure
 </p>
 
 ---
