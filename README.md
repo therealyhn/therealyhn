@@ -24,13 +24,14 @@
 ### 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap,git,github,figma,vscode,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,php,mysql,git,github,figma,vscode,ps" />
 </div>
 
 <p align="center">
   <b>Frontend:</b> React • Vite • JavaScript (ES6+) • Tailwind CSS • HTML5 • CSS3 <br/>
+  <b>Backend:</b> Sanity • Node.js • PHP • MySQL <br/>
   <b>Tools:</b> Git • GitHub • Figma • VS Code • npm • REST APIs <br/>
-  <b>Experience:</b> Sanity (CMS) • Deployment (Hostinger, GH Actions) • Backend understanding • IT Infrastructure
+  <b>Experience:</b> Sanity (CMS) • Deployment (Hostinger, GH Pages) • IT Infrastructure
 </p>
 
 ---
